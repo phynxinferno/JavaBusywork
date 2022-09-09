@@ -1,5 +1,8 @@
 import java.util.*;
-// Note: CBOJ makes you use integers for some reason- ig they don't like functionality
+/* 
+Note: [CB]OJ makes you use integers for some reason- ig they don't like functionality. 
+Same thing with it being println every time. They make input fields then don't use them. Thanks.
+*/
 class Main {
     public static Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
