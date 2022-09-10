@@ -25,3 +25,4 @@ class Main {
         System.out.println("The average is " + total/4);
     }
 }
+// yeah. input fields. the thing. yeah that. okay. no they don't have to be used. yeah. input fields. the thing. yeah that. okay. no they don't have to be used. yeah. input fields. the thing. yeah that. okay. no they don't have to be used. yeah. input fields. the thing. yeah that. okay. no they don't have to be used. yeah. input fields. the thing. yeah that. okay. no they don't have to be used. yeah. input fields. the thing. yeah that. okay. no they don't have to be used. yeah. input fields. the thing. yeah that. okay. no they don't have to be used. yeah. input fields. the thing. yeah that. okay. no they don't have to be used. 
