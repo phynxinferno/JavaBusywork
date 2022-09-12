@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 
 class Main {
     public static Scanner inStream = new Scanner(System.in);

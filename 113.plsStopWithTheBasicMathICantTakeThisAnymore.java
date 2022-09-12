@@ -1,7 +1,6 @@
 // Another (very easy but still) problem ruined by TELLING ME THE ANSWER THIS IS IMPOSTOR SYNDROME THE COURSE LET ME ACTUALLY USE MY PROBLEM SOLVING SKILLS PLEASE
 
 import java.util.Scanner;
-import java.lang.Math;
 
 class Main {
     public static Scanner inStream = new Scanner(System.in);
