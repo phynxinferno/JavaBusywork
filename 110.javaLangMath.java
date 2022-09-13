@@ -35,6 +35,7 @@ class Main {
         int floor = inStream.nextInt();
         System.out.println("Enter the upper limit:");
         int ceil = inStream.nextInt();
-        System.out.println("A random number between " + floor + " and " + ceil + " is " + Math.random() * (ceil - floor) + floor);
+        // wtf even is this :spidellsphere:
+        System.out.println("A random number between " + floor + " and " + ceil + " is " + (double) ((int) (Math.random() * (ceil - floor) + floor)));
     }
 }
