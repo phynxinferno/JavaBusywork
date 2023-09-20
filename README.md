@@ -4,3 +4,5 @@ If you see something done poorly/inefficiently it's probably becuase \[cb\]oj wo
 WIP questions will be denoted in comments
 
 I'm pretty sure this course took 5 minutes to make and was never proofread
+
+[4U coursework](https://github.com/phynxinferno/csnuts)
